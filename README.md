@@ -1,0 +1,1 @@
+"# WpfMvvm.Ico" 
